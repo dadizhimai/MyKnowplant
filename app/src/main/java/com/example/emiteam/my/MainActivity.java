@@ -15,7 +15,9 @@ import com.yunkang.adapters.BottomGuideFragmentAdapter;
 import com.yunkang.constants.Conttant;
 import com.yunkang.search.SearchDialog;
 
-
+/**
+ * 主要界面
+ */
 public class  MainActivity extends AppCompatActivity implements View.OnClickListener {
     private Context context;
     private LinearLayout linearLayout;
