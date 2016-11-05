@@ -5,7 +5,7 @@
     <string name="main_search">搜索</string>
     <string name="main_datebase">数据库</string>
     <string name="main_plantlists">植物列表</string>
-    <string name="main_retrivallists">植物检索表</string>
+    <string name="main_retrievalLists">植物检索表</string>
     <string name="main_myself">我的</string>
     <string name="_15595080298">15595080298</string>
     <string name="v1_0">v1.0</string>
@@ -27,5 +27,9 @@
     <string name="plant_musaceae">芭蕉科</string>
     <string name="plant_musaceae_intr">Flos Chrysanthemi                         </string>
     <string name="adddatebase">添加数据库</string>
+    <string name="add">点击添加更多数据库</string>
+    <string name="search_bottom">扫一扫</string>
+    <string name="search_top">搜索</string>
+
 
 </resources>
